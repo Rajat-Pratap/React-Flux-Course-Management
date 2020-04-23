@@ -1,0 +1,69 @@
+{
+  "courses": [
+    {
+      "id": 3,
+      "title": "Creating Reusable React Components",
+      "slug": "react-creating-reusable-components",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 5,
+      "title": "Building Applications with React and Redux",
+      "slug": "react-redux-react-router-es6",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 6,
+      "title": "Building Applications in React and Flux",
+      "slug": "react-flux-building-applications",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 7,
+      "title": "Clean Code: Writing Code for Humans",
+      "slug": "writing-clean-code-humans",
+      "authorId": 1,
+      "category": "Software Practices"
+    },
+    {
+      "id": 9,
+      "title": "Becoming an Outlier: Reprogramming the Developer Mind",
+      "slug": "career-reboot-for-developer-mind",
+      "authorId": 1,
+      "category": "Career"
+    },
+    {
+      "id": 11,
+      "slug": "mern",
+      "title": "MERN",
+      "authorId": 2,
+      "category": "Fun",
+      "createdAt": 1587556770018
+    },
+    {
+      "id": 12,
+      "slug": "guitar",
+      "title": "Tabla",
+      "authorId": 2,
+      "category": "Music",
+      "createdAt": 1587615148639
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Cory House"
+    },
+    {
+      "id": 2,
+      "name": "Scott Allen"
+    },
+    {
+      "id": 3,
+      "name": "Dan Wahlin"
+    }
+  ]
+}
